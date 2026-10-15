@@ -1,6 +1,6 @@
-# 94 clinical specialist roles
+# 95 clinical specialist roles
 
-**94 roles at 24 companies.** Checked 15 Oct 2026. Clinical trial and study specialists, plus medical device field clinical specialist roles.
+**95 roles at 24 companies.** Checked 15 Oct 2026. Clinical trial and study specialists, plus medical device field clinical specialist roles.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
@@ -55,6 +55,7 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Edwards Lifesciences** | [Clinical Specialist, Southern California, IHFM](https://trylitos.com/job/2b1667c3-cd37-4b78-bb98-8cf51399d82b?utm_source=github&utm_campaign=cra-regulatory-clinical-specialist) | USA - California - Irvine; USA - California - |  | Oct 6 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Stryker** | [Clinical Specialist, Joint Replacement - Hartford, CT](https://trylitos.com/job/8daaa3f4-d269-43fa-9352-12aaae35479e?utm_source=github&utm_campaign=cra-regulatory-clinical-specialist) | Hartford, Connecticut; East Hartford, Connect |  | Oct 5 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Stryker** | [Field Clinical Specialist - Grand Rapids, MI - Peripheral Vascular](https://trylitos.com/job/57f34e0f-79a4-4ff4-8bf7-bb28806136d5?utm_source=github&utm_campaign=cra-regulatory-clinical-specialist) | Grand Rapids, Michigan |  | Oct 5 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **Stryker** | [Clinical Specialist, Joint Replacement - South Houston, TX](https://trylitos.com/job/a69bddf2-5d17-4df6-baa9-931fcbcc053f?utm_source=github&utm_campaign=cra-regulatory-clinical-specialist) | Houston, Texas |  | Oct 2 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Haemonetics** | [Clinical Specialist, TEG (Los Angeles and Las Vegas (Field role)](https://trylitos.com/job/24ce5624-e3d9-4db6-9c79-54b9e0ac35a7?utm_source=github&utm_campaign=cra-regulatory-clinical-specialist) | US NV Remote |  | Oct 2 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Edwards Lifesciences** | [Field Clinical Specialist, Maryland-- Transcatheter Heart Valve](https://trylitos.com/job/ffdbe491-8b14-4dfa-919e-607f8557b871?utm_source=github&utm_campaign=cra-regulatory-clinical-specialist) | USA - Maryland - Baltimore; USA - Delaware - |  | Oct 2 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **PROCEPT BioRobotics** | [Clinical Specialist- Albany/ Syracuse, NY](https://trylitos.com/job/74fa24fa-92de-477c-9481-3b49d5783164?utm_source=github&utm_campaign=cra-regulatory-clinical-specialist) | New York |  | Oct 1 |  |
