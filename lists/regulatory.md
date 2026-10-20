@@ -1,11 +1,15 @@
-# 39 regulatory coordinator and specialist roles
+# 36 regulatory coordinator and specialist roles
 
-**39 roles at 32 companies.** Checked 15 Oct 2026. Regulatory coordinators, regulatory specialists and regulatory affairs specialists.
+**36 roles at 30 companies.** Checked 20 Oct 2026. Regulatory coordinators, regulatory specialists and regulatory affairs specialists.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Syneos Health** | [Country Regulatory Specialist (NAMER Submission Expertise) - Hybrid](https://trylitos.com/job/bf9ba6a2-e3af-4fb6-9514-c69b572a5c34?utm_source=github&utm_campaign=cra-regulatory-regulatory) | USA-NC-Morrisville-Hybrid |  | Oct 16 |  |
+| **Intermountain Health** | [Research Regulatory Coordinator](https://trylitos.com/job/674af036-854a-4fc9-9bbf-80cc8ed1ccc0?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Intermountain Health Intermountain Medical Ce |  | Oct 15 |  |
+| **Abbott** | [Regulatory Affairs Specialist II - Vascular (on-site)](https://trylitos.com/job/d3820696-7371-4666-ab0a-1d545f078201?utm_source=github&utm_campaign=cra-regulatory-regulatory) | United States - California - Temecula |  | Oct 15 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **Johnson & Johnson** | [Regulatory Affairs Specialist, Ops - Johnson & Johnson MedTech, Circulatory Restoration](https://trylitos.com/job/e56c50db-48fc-4e45-b810-0affcd7efcee?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Santa Clara, California, United States of Ame |  | Oct 15 |  |
 | **RYZE** | [Regulatory Specialist](https://trylitos.com/job/c3c02a9a-aca6-4db1-8381-246dfac1b27f?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Remote - USA |  | Oct 15 |  |
 | **Starr Insurance Companies** | [Licensing and Regulatory Specialist](https://trylitos.com/job/7eb1a015-0dae-4b35-9ccf-99c1393381bd?utm_source=github&utm_campaign=cra-regulatory-regulatory) | 399 Park Avenue-New York, NY; Chicago, IL; At |  | Oct 14 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Edwards Lifesciences** | [Regulatory Affairs Specialist, Regulatory Intelligence & Corporate Regulatory Affairs](https://trylitos.com/job/e947fc1a-c333-4f9e-962a-7742ae5c08de?utm_source=github&utm_campaign=cra-regulatory-regulatory) | USA - California - Irvine |  | Oct 13 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
@@ -16,20 +20,14 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Enovis** | [Regulatory Affairs Specialist](https://trylitos.com/job/68739d07-7f14-4541-81f9-d6e314a2ba34?utm_source=github&utm_campaign=cra-regulatory-regulatory) | DJO Austin |  | Oct 9 | Employer has approved H-1B petitions (USCIS); posting does not say |
 | **Capital Health** | [Quality and Regulatory Affairs Specialist (Onsite) - FT - Day - LIFE Bordentown NJ](https://trylitos.com/job/df0d1bc7-0733-48c4-a49a-831ba6688230?utm_source=github&utm_campaign=cra-regulatory-regulatory) | LIFE |  | Oct 7 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **McKesson** | [Site Regulatory Specialist](https://trylitos.com/job/739222db-52d6-4dc0-a101-a1cb686b7c56?utm_source=github&utm_campaign=cra-regulatory-regulatory) | USA, CO, Denver |  | Oct 5 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Merck & Co. (MSD)** | [Assoc. Dir, Regulatory Affairs-CMC](https://trylitos.com/job/6be3a2d0-3c25-4fe7-943d-e76f21d92b1b?utm_source=github&utm_campaign=cra-regulatory-regulatory) | USA - New Jersey - Rahway; USA - Pennsylvania |  | Oct 2 |  |
-| **Pace Analytical** | [Chemical Regulatory Coordinator (Remote)](https://trylitos.com/job/ab18089b-ac12-4fc2-9298-16b1eebd263a?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Maplewood, MN |  | Oct 1 |  |
 | **Northeastern** | [Part Time Lecturer - Regulatory Affairs (Boston)](https://trylitos.com/job/dd05961e-741e-40e9-b60e-d814215c3062?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Boston, MA (Main Campus) |  | Oct 1 |  |
 | **DuPont** | [Product Stewardship and Regulatory Specialist - Healthcare](https://trylitos.com/job/b1866754-d261-4737-9ec0-693f05b58b95?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Wimington, Delaware; Glens Falls, New York, U |  | Sep 28 |  |
-| **Agilent** | [Regulatory Affairs Specialist](https://trylitos.com/job/d12d720b-038d-44f8-b67e-83f06dfd452d?utm_source=github&utm_campaign=cra-regulatory-regulatory) | US-CA-Remote Location; Option to Work Remote |  | Sep 28 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Illinois Tool Works** | [Regulatory Affairs Associate](https://trylitos.com/job/bd80621d-bdcc-42fc-9273-78eb68979e08?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Houston - 77084 |  | Sep 25 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Avera** | [Regulatory Specialist](https://trylitos.com/job/ffacbfd8-a264-4c23-ae4d-5e48eed44ae1?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Sioux Falls, SD |  | Sep 22 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Capital Health** | [Regulatory Affairs Coordinator](https://trylitos.com/job/02bef864-05b0-48b1-8c15-df187dc33e40?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Pennington, NJ |  | Sep 17 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Envista** | [Implant Direct Regulatory Affairs Specialist (Thousand Oaks, CA)](https://trylitos.com/job/b25bebaf-2404-4135-b907-1181c5643872?utm_source=github&utm_campaign=cra-regulatory-regulatory) | United States of America,  California,  Thous |  | Sep 14 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Globus Medical** | [Regulatory Affairs Specialist](https://trylitos.com/job/201d66ed-ae91-4116-9712-7e6ffdebe6c7?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Audubon, PA |  | Sep 10 |  |
-| **McKesson** | [Regulatory Affairs Specialist](https://trylitos.com/job/208d4e5d-9c5b-42b1-a577-afc8f74c5cb8?utm_source=github&utm_campaign=cra-regulatory-regulatory) | USA, KY, Shepherdsville; USA, OH, Mason |  | Sep 10 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Neogen** | [International Trade Regulatory Specialist](https://trylitos.com/job/c304b7b1-b9c8-4578-a52f-c3257988dfa7?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Remote |  | Sep 3 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Ann & Robert H. Lurie Children's Hospital of Chicago** | [Regulatory Coordinator-Center for Cancer and Blood Disorders](https://trylitos.com/job/1c4ce771-1a19-44f7-a7ed-11104e18a4cf?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Streeterville, Chicago, IL |  | Aug 31 |  |
-| **University of Southern California** | [Clinical Research Regulatory Specialist](https://trylitos.com/job/50704e76-f364-48f4-ac64-859ae49a4acd?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Los Angeles, CA - Health Sciences Campus |  | Aug 25 |  |
 | **Globus Medical** | [Regulatory Specialist](https://trylitos.com/job/7a271ac7-8848-4af6-ab7e-fa44e17e7874?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Audubon, PA |  | Aug 20 |  |
 | **Pace Analytical** | [Chemical Regulatory Coordinator](https://trylitos.com/job/5cea3384-8092-455f-b875-855ad5c3028f?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Maplewood, MN |  | Aug 4 |  |
 | **Envista** | [Regulatory Affairs Specialist](https://trylitos.com/job/bc1fddd0-0031-48e5-bed2-41f8ab508203?utm_source=github&utm_campaign=cra-regulatory-regulatory) | United States of America,  California,  Brea |  | Jul 15 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
@@ -44,6 +42,5 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Flourish Research** | [Regulatory Specialist](https://trylitos.com/job/5d148160-59ac-469a-948a-f0b478a8daf7?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Walnut Creek, California, United States |  | Sep 24 |  |
 | **West Cancer Center** | [Regulatory Affairs Associate - Full Time - Germantown, TN](https://trylitos.com/job/e43b1f29-808e-4c91-81e3-c82e574d51e2?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Germantown, TN |  | Sep 18 |  |
 | **Sol Systems** | [Associate of Market Policy & Regulatory Affairs](https://trylitos.com/job/4ba4943c-7974-449a-89bf-110059d9aa02?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Washington, DC |  | Sep 10 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Sentec** | [Usability and Regulatory Affairs Specialist](https://trylitos.com/job/00ca61d4-df4f-4355-bcb0-c2feebbae4e1?utm_source=github&utm_campaign=cra-regulatory-regulatory) | Lincoln, Rhode Island, United States |  | Aug 14 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)
