@@ -1,34 +1,26 @@
-# 30 documentation and tmf specialist roles
+# 22 documentation and tmf specialist roles
 
-**30 roles at 27 companies.** Checked 2 Nov 2026. Clinical documentation, trial master file (TMF) and document specialists.
+**22 roles at 21 companies.** Checked 9 Nov 2026. Clinical documentation, trial master file (TMF) and document specialists.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
-| **OhioHealth** | [Clinical Documentation Specialist (Riverside Methodist Hospital)](https://trylitos.com/job/1e737208-cdc2-451e-bce6-de4109f889da?utm_source=github&utm_campaign=cra-regulatory-documentation) | WORK AT HOME - OHIO |  | Oct 30 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **UMMC** | [Clinical Documentation Specialist _ Part Time](https://trylitos.com/job/6d8b4a46-d2da-4e7d-9407-7b78b300c0c1?utm_source=github&utm_campaign=cra-regulatory-documentation) | Jackson, MS; Remote |  | Oct 30 |  |
-| **Trinity Health** | [RN Clinical Documentation Specialist - ST Peters Hospital](https://trylitos.com/job/3fb9373a-7378-4ad4-9429-f6b0bc7ede45?utm_source=github&utm_campaign=cra-regulatory-documentation) | St. Peter's Hospital - Albany, New York |  | Oct 29 |  |
+| **Banner Health** | [RN Clinical Documentation Specialist](https://trylitos.com/job/28e86e6a-d594-490d-b360-bd06dec85fec?utm_source=github&utm_campaign=cra-regulatory-documentation) | Remote Arizona |  | Nov 2 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **CACI International Inc** | [Documentation Digitalization Specialist](https://trylitos.com/job/af925a90-c029-4ad5-994f-79f94b066ed8?utm_source=github&utm_campaign=cra-regulatory-documentation) | Chantilly, VA, US |  | Oct 29 |  |
-| **Insulet** | [Operations Documentation Specialist (Onsite - Acton)](https://trylitos.com/job/9e81bf5f-968d-4a85-a346-394b95d795ea?utm_source=github&utm_campaign=cra-regulatory-documentation) | US - Massachusetts (Acton - Distribution Cent |  | Oct 27 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **TD Bank** | [TD Equipment Finance Documentation Specialist](https://trylitos.com/job/27a0ea77-9e65-41a8-89f8-71c8bb21157f?utm_source=github&utm_campaign=cra-regulatory-documentation) | Mount Laurel, New Jersey; Remote Los Angeles |  | Oct 23 |  |
 | **Ensemble Health Partners** | [AVP Clinical Documentation (Orchestration Works)](https://trylitos.com/job/cc6f9090-7d33-48bc-b5eb-ac88882cd9ba?utm_source=github&utm_campaign=cra-regulatory-documentation) | Austin, TX; Remote - Nationwide |  | Oct 22 |  |
 | **American AgCredit** | [Loan Documentation Specialist](https://trylitos.com/job/a4346c00-54df-4c84-badd-917301cab43d?utm_source=github&utm_campaign=cra-regulatory-documentation) | Great Bend, KS; Dodge City, KS; Roswell, NM; |  | Oct 22 |  |
-| **CACI International Inc** | [Documentation Specialist](https://trylitos.com/job/afd2f469-2379-455a-bf43-1f19bdaad4cf?utm_source=github&utm_campaign=cra-regulatory-documentation) | National Harbor, MD, US |  | Oct 21 |  |
 | **Ensemble Health Partners** | [RN Clinical Documentation Specialist - Referrals](https://trylitos.com/job/14c9270a-25f4-4df0-966b-f3100e34c094?utm_source=github&utm_campaign=cra-regulatory-documentation) | Putnam, CT |  | Oct 20 |  |
 | **Montage Health** | [Clinical Documentation Integrity Specialist](https://trylitos.com/job/161a8c41-b3a6-47fb-bdff-4f7d980a3075?utm_source=github&utm_campaign=cra-regulatory-documentation) | Monterey, CA |  | Oct 20 |  |
 | **Martin** | [Clinical Documentation Specialist RN](https://trylitos.com/job/6173bedf-32df-4f9c-ad07-dc4f2fffe568?utm_source=github&utm_campaign=cra-regulatory-documentation) | Portland, ME |  | Oct 19 |  |
 | **Origin Bank** | [Loan Documentation Specialist](https://trylitos.com/job/d9a1fb0c-95a2-477b-a301-a19c286a49b6?utm_source=github&utm_campaign=cra-regulatory-documentation) | Ruston, LA; Jackson, MS; Houston, TX; Shrevep |  | Oct 19 |  |
 | **Apogee Enterprises** | [Construction Risk Documentation Specialist](https://trylitos.com/job/1d29c42a-2b90-4d96-a3dc-19ddd09c4c75?utm_source=github&utm_campaign=cra-regulatory-documentation) | Owatonna, MN |  | Oct 19 |  |
 | **CCC Intelligent Solutions** | [Technical Product Documentation Specialist](https://trylitos.com/job/f398357b-2ae3-49d2-9fca-83a9bf0ef58f?utm_source=github&utm_campaign=cra-regulatory-documentation) | Chicago (Green St), IL |  | Oct 14 |  |
-| **Denver Health** | [RN Specialist, Clinical Documentation](https://trylitos.com/job/3206da83-a04c-4a2b-a511-4194d40146d5?utm_source=github&utm_campaign=cra-regulatory-documentation) | Administrative Offices - 601 Broadway, Denver |  | Oct 13 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Packsize** | [Quality Documentation Specialist](https://trylitos.com/job/a353a09f-8e23-4ab0-833a-c57497abbb9d?utm_source=github&utm_campaign=cra-regulatory-documentation) | Packsize Louisville |  | Oct 5 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Sensata** | [Documentation Control Specialist](https://trylitos.com/job/553baab0-972c-4f67-ab58-49a92255d88b?utm_source=github&utm_campaign=cra-regulatory-documentation) | Thousand Oaks, CA |  | Sep 24 |  |
 | **GreatAmerica** | [Documentation Specialist](https://trylitos.com/job/356b6a2e-1dbb-41e2-b616-71b81537d35e?utm_source=github&utm_campaign=cra-regulatory-documentation) | Cedar Rapids, IA |  | Sep 17 |  |
 | **Teledyne FLIR** | [Manufacturing Documentation Specialist](https://trylitos.com/job/6bccb059-93f0-4ab4-b416-b959581308ae?utm_source=github&utm_campaign=cra-regulatory-documentation) | US - Dallas, TX |  | Sep 16 |  |
-| **Axos Bank** | [Documentation Specialist II](https://trylitos.com/job/db08f50e-5c3a-4676-92cd-1eec4a902522?utm_source=github&utm_campaign=cra-regulatory-documentation) | Eden Prairie, MN |  | Sep 8 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Denver Health** | [RN Educator, Clinical Documentation Integrity - Must Reside in Colorado](https://trylitos.com/job/4ade346c-1c49-4e55-8201-0b3ce1becce4?utm_source=github&utm_campaign=cra-regulatory-documentation) | Fully Remote (CO); Administrative Offices - 6 |  | Sep 3 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Newrez** | [Loan Documentation Specialist (on-site)](https://trylitos.com/job/c0766652-f6cc-4d52-9cc9-198c86261cae?utm_source=github&utm_campaign=cra-regulatory-documentation) | AZ - Tempe - 2116 E Achieve Way |  | Aug 4 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **JRC** | [Operational / Technical Documentation Specialist](https://trylitos.com/job/df5a3531-9e2b-4cda-ab60-59054a849d9e?utm_source=github&utm_campaign=cra-regulatory-documentation) | Dahlgren, Virginia, United States |  | Oct 26 |  |
 | **Kinder's** | [FSQA Documentation Specialist](https://trylitos.com/job/b4ff6c00-c05e-4d33-809a-f16853686345?utm_source=github&utm_campaign=cra-regulatory-documentation) | Walnut Creek, CA |  | Oct 22 |  |
 | **Verista, Inc.** | [6583 - Documentation Specialist / Project Administrator](https://trylitos.com/job/2733b45f-7943-4f56-a18f-6c8447024500?utm_source=github&utm_campaign=cra-regulatory-documentation) | Indianapolis, IN | USD 59,951 to 69,929 per year | Oct 9 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
